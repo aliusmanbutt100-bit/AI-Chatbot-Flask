@@ -9,7 +9,7 @@ A full-stack AI chatbot web application built with Python and Flask.
 - ⚡ Fast responses via OpenRouter API
   
 ## 🌐 Live Demo
-[Click here to chat!](https://ai-chatbot-flask-production-0419.up.railway.app/)
+[Click here to chat!](https://ai-chatbot-flask-production-dfbb.up.railway.app/)
 
 ## Tech Stack
 - Python
